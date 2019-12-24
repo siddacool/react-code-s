@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-code-s"]=this["webpackJsonpreact-code-s"]||[]).push([[3],{15:function(e,t,c){"use strict";c.r(t);var n=c(0),s=c.n(n);t.default=function(){return s.a.createElement("button",{className:"hello-button"},"Hello")}}}]);
+//# sourceMappingURL=3.a2e0ffc1.chunk.js.map

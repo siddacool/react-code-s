@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-code-s"]=this["webpackJsonpreact-code-s"]||[]).push([[4],{16:function(e,n,t){"use strict";t.r(n);var a=t(0),l=t.n(a),r=t(2),c=t.n(r)()({loader:function(){return t.e(3).then(t.bind(null,15))},loading:function(){return l.a.createElement("div",null,"Loading...")}});n.default=function(){return l.a.createElement("div",{className:"hello-world"},l.a.createElement(c,null))}}}]);
+//# sourceMappingURL=4.c9788d0c.chunk.js.map
